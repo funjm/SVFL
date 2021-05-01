@@ -1,0 +1,8 @@
+# record
+/dataset
+/tensorboard
+/lab/*log/
+/lab/*runs/
+/lab/*record/
+/lab/test*/
+
